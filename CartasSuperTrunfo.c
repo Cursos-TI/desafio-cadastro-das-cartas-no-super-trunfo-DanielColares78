@@ -7,6 +7,17 @@
 //Teste larissa
 
 int main() {
+
+    // Declarando as variaveis da primeira carta
+
+    char estado1:
+    char codigo1[5];
+    char cidade1[25];
+    int populacao1;
+    float area1 = 0;
+    float pib = 0;
+    int pontos_t1 = 0;
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
